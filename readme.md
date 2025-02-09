@@ -11,10 +11,6 @@ This project features a beautifully styled card component built using **Tailwind
 - ✅ **Customizable** with Tailwind utility classes
 - ✅ **Lightweight & fast**
 
-## 📷 Preview
-
-(Add a screenshot of your card component here)
-
 ## 🛠️ Technologies Used
 
 - **Tailwind CSS** – A utility-first CSS framework for rapid UI development.
